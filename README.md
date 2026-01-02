@@ -44,12 +44,3 @@
 </p>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img align="left" height="180"
-    src="https://github-readme-stats.vercel.app/api?username=joseneto970807&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img align="left" height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseneto970807&layout=compact&theme=tokyonight" />
-</p>
