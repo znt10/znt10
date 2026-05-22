@@ -8,8 +8,7 @@
 </p>
 
 - 🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas**
-- 🌱 Estudando **Java, Python, HTML, CSS, JavaScript, Next.js e MongoDB**
-- 👯 Buscando **vaga de estágio**, principalmente na área de **Back-End**
+- 🌱 Estudando **Python, Django, Docker, TypeScript, Next.js e MongoDB**
 - 💻 Projetos principais em desenvolvimento:  
   👉 [https://github.com/znt10/nextjs-fullstack]
   👉 (https://github.com/znt10/Unistock)
