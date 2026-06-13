@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou José Cícero da Silva Neto</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack</h3>
+<h3 align="center"> Desenvolvedor Full Stack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=znt10&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile views" />
