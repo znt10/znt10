@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=znt10&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/zé-neto-4b77642b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-cicero-neto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:joseneto970807@gmail.com">
