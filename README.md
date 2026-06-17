@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Desenvolvedor Junior
 - 🌱 Atualmente aprofundando em **Python, Django, Docker, TypeScript, Next.js e MongoDB**
 - 💡 Apaixonado por desenvolvimento web full stack e boas práticas de código
 - 📫 Como me encontrar: **joseneto970807@gmail.com**
