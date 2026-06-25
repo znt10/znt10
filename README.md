@@ -1,13 +1,16 @@
 <h1 align="center">Olá 👋, eu sou José Cícero da Silva Neto</h1>
-<h3 align="center"> Desenvolvedor Full Stack</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=znt10&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=znt10&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/jose-cicero-neto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:joseneto970807@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/znt10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -15,10 +18,13 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Desenvolvedor Junior
-- 🌱 Atualmente aprofundando em **Python, Django, Docker, TypeScript, Next.js e MongoDB**
-- 💡 Apaixonado por desenvolvimento web full stack e boas práticas de código
-- 📫 Como me encontrar: **joseneto970807@gmail.com**
+Desenvolvedor Full Stack em ascensão, focado em transformar ideias em produtos reais com código limpo e boas práticas.
+
+- 🎓 Desenvolvedor Júnior
+- 🌱 Aprofundando em **Python, Django, Docker, TypeScript, Next.js e MongoDB**
+- 💡 Apaixonado por desenvolvimento web full stack e arquitetura de software
+- 🤝 Aberto a oportunidades e colaborações
+- 📫 Contato: **joseneto970807@gmail.com**
 - ⚡ Curiosidade: gosto de transformar ideias em projetos reais
 
 ---
@@ -42,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
@@ -51,8 +57,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
 </p>
 
 ---
