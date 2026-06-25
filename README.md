@@ -16,16 +16,40 @@
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
-Desenvolvedor Full Stack em ascensão, focado em transformar ideias em produtos reais com código limpo e boas práticas.
+> 💬 *"Transformo ideias em produtos reais com código limpo e boas práticas."*
 
-- 🎓 Desenvolvedor Júnior
-- 🌱 Aprofundando em **Python, Django, Docker, TypeScript, Next.js e MongoDB**
-- 💡 Apaixonado por desenvolvimento web full stack e arquitetura de software
-- 🤝 Aberto a oportunidades e colaborações
-- 📫 Contato: **joseneto970807@gmail.com**
-- ⚡ Curiosidade: gosto de transformar ideias em projetos reais
+Sou **Desenvolvedor Full Stack** apaixonado por construir aplicações web do início ao fim — do banco de dados à interface. Gosto de resolver problemas reais, aprender novas tecnologias e escrever código que outras pessoas consigam entender e evoluir.
+
+Atualmente atuo como **Desenvolvedor Júnior**, sempre buscando crescer, contribuir em projetos desafiadores e me tornar um profissional cada vez mais completo.
+
+<table>
+  <tr>
+    <td>🎯 <b>Foco</b></td>
+    <td>Desenvolvimento Web Full Stack & arquitetura de software</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Aprendendo</b></td>
+    <td>Python, Django, Docker, TypeScript, Next.js e MongoDB</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Valores</b></td>
+    <td>Código limpo, boas práticas e aprendizado contínuo</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Disponível para</b></td>
+    <td>Oportunidades, colaborações e projetos open source</td>
+  </tr>
+  <tr>
+    <td>📫 <b>Contato</b></td>
+    <td>joseneto970807@gmail.com</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Curiosidade</b></td>
+    <td>Gosto de transformar ideias em projetos reais</td>
+  </tr>
+</table>
 
 ---
 
