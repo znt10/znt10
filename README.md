@@ -60,7 +60,8 @@ Atualmente atuo como **Desenvolvedor Júnior**, sempre buscando crescer, contrib
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| **nextjs-fullstack** | Aplicação full stack desenvolvida com Next.js | [Ver repositório](https://github.com/znt10/nextjs-fullstack) |
+| **Marcai** | Agenda para barbearias, uma por subdomínio: o cliente marca sozinho e recebe confirmação no WhatsApp. Django + Celery + Postgres com RLS, Next.js 16 | [Ver repositório](https://github.com/znt10/Marcai) |
+| **FechaCaixa** | Fechamento de caixa de lojas: a loja lança o turno pelo celular, sem login, e a gerência confere e corrige no painel. Django + DRF, Next.js 16, NF-e | [Ver repositório](https://github.com/znt10/FechaCaixa) |
 | **Unistock** | Sistema de controle de estoque | [Ver repositório](https://github.com/znt10/Unistock) |
 
 ---
