@@ -89,14 +89,10 @@ Atualmente atuo como **Desenvolvedor Júnior**, sempre buscando crescer, contrib
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🏆 Conquistas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-lac-eight.vercel.app/api?username=znt10&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas" height="170" />
-  <img src="https://github-readme-stats-lac-eight.vercel.app/api/top-langs/?username=znt10&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=znt10&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://github-profile-trophy.vercel.app/?username=znt10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Troféus" />
 </p>
 
 ---
